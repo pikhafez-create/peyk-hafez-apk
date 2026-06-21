@@ -12,12 +12,12 @@
     "newArchEnabled": false,
     "extra": {
       "eas": {
-        "projectId": "af2cde8a-8407-4197-8139-d4e737c5a65c"
+        "projectId": "b86cb942-7e3c-4a47-ac02-df14a1ef7fdb"
       }
     },
     "android": {
       "package": "com.javadhafez.peykhafezv3"
     },
-    "owner": "pikhafez"
+    "owner": "javad-hafez"
   }
 }
