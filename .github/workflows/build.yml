@@ -25,7 +25,7 @@ jobs:
       
       - name: Build APK
         env:
-          EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
+          EXPO_TOKEN: i57sn2eSC_hoe3hUGy4pCtzY4HFc1NOM2IrdIaWS
         run: eas build --platform android --profile preview --non-interactive
       
       - name: Upload APK
